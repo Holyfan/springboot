@@ -16,7 +16,7 @@ public class SpringbootApplication implements ApplicationRunner {
 	}
 
 	@Override
-	public void run(ApplicationArguments args) throws Exception {
+	public void run(ApplicationArguments args) {
 		
 	}
 }
